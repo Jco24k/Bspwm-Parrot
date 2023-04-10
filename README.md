@@ -4,7 +4,7 @@
 
 git clone https://github.com/Jco24k/Bspwm-Parrot
 
-cd BSPWMparrot
+cd Bspwm-Parrot
 
 chmod +x install.sh
 
