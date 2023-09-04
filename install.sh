@@ -143,9 +143,10 @@ rofi-theme-selector
 
 # Removiendo Repositorio
 
+cp -f ~/github/config-term ~/.config/xfce4/terminal/terminalrc
+
 rm -rf ~/github
 rm -rf $ruta
 
 # Mensaje de Instalado
-
 notify-send "BSPWM INSTALADO"
